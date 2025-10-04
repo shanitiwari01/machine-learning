@@ -8,11 +8,7 @@
 
 Formula:
 
-$$
-
-\sigma = \sqrt{\frac{1}{n} \sum (x_i - \mu)^2}
-
-$$
+$$\sigma = \sqrt{\frac{1}{n} \sum (x_i - \mu)^2}$$
 
 Where:
 
@@ -35,11 +31,11 @@ Think of **SD as measuring how tightly people cluster around a campfire**:
 
 Dataset: (2, 4, 4, 4, 5, 5, 7, 9)
 
-1. Mean ((\mu)) = 5
+1. Mean $((\mu))$ = 5
 2. Differences from mean: -3, -1, -1, -1, 0, 0, 2, 4
 3. Square differences: 9, 1, 1, 1, 0, 0, 4, 16
 4. Variance = average of squares = (32/8 = 4)
-5. Standard deviation = (\sqrt{4} = 2)
+5. Standard deviation = $(\sqrt{4} = 2)$
 
 So SD = 2, which tells us most values are within ±2 units of the mean.
 
