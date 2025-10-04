@@ -1,6 +1,6 @@
 ## The Mean
 
-The average of set of numers.
+The average of a set of numbers.
 
 ### 📝 Explanation
 
