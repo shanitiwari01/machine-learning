@@ -20,7 +20,7 @@ class Stacks:
     def is_empty(self):
         return len(self.items) == 0
 
-stack = Stacks();
+stack = Stacks()
 
 stack.add(1)
 stack.add(2)
