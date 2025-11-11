@@ -113,9 +113,11 @@ data_scaled = sc.fit_transform(data)
 ```
 
 Formula:
+$$
 [
 z = \frac{x - \text{mean}}{\text{std}}
 ]
+$$
 
 **Normalization (Min-Max scaling):**
 
@@ -127,9 +129,11 @@ data_normalized = scaler.fit_transform(data)
 ```
 
 Formula:
+$$
 [
 x' = \frac{x - \text{min}}{\text{max} - \text{min}}
 ]
+$$
 
 ---
 
